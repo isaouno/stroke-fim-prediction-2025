@@ -15,3 +15,5 @@ To ensure transparency and reproducibility, the core Python script (`fim_fim_pre
 ## Requirements
 - Python 3.x
 - pandas, numpy, scikit-learn, openpyxl
+## Data Availability and Privacy
+Patient-level clinical data are not publicly available due to privacy and ethical restrictions. Furthermore, no individual patient data were inputted into ChatGPT or any other external AI service at any stage of this study.
